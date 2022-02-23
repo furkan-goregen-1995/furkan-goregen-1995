@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>ABOUT ME</h3>
+<h3>Who is Furkan?</h3>
 
 - 🌱 I’m currently learning JavaScript, Node.js and React.
 - 💬 Ask me about HTML5,CSS3,SCSS and CMD (Blogger,Wordpress etc.)
