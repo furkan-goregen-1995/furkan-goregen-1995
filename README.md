@@ -21,6 +21,9 @@
 <h3>Languages/Tools</h3>
 
 ★ Frontend(Html5, CSS3, SCSS, Javascript, Query, Bootstrap, React, Angular, Typescript)
+<br>
 ★ Backend(NodeJS, PHP)
+<br>
 ★ Database(SQL, PostgreSQL, Firebase ,MySQL,MongoDB)
+<br>
 ★ MVC frameworks(Codeigniter, Wordpress, Blogger etc)
