@@ -6,7 +6,7 @@
 - I am open to any kind of projects that can be developed on Web.
 - Would you like to have your own website?
 - Customer satisfaction is always crucial.
-- I have been keep going on improving myself step by step to achieve my goals.
+- I have been keeping going on improving myself step by step to achieve my goals.
 
 
 
