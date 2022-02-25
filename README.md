@@ -1,4 +1,4 @@
-<h1>Jr.Fullstack Developer</h1>
+<h1>Jr. Fullstack Developer</h1>
 
 <h3>Who is Furkan?</h3>
 
