@@ -20,7 +20,7 @@
 
 <h3>Languages/Tools</h3>
 
-★ Frontend(Html5, CSS3, SCSS, Javascript, Query, Bootstrap, React, Angular, Typescript)
+★ Frontend(Html5, CSS3, SCSS, Javascript, jQuery, Bootstrap, React, Angular, Typescript)
 <br>
 ★ Backend(NodeJS, PHP)
 <br>
