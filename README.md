@@ -2,9 +2,13 @@
 
 <h3>Who is Furkan?</h3>
 
-- 🌱 I’m currently learning JavaScript, Node.js and React.
-- 💬 Ask me about HTML5,CSS3,SCSS and CMD (Blogger,Wordpress etc.)
-- 📫 How to reach me: goregenfurkan@gmail.com
+- It is important for me to learn fast and improve yourself always.
+- I am open to any kind of projects that can be developed on Web.
+- Would you like to have your own website?
+- Customer satisfaction is always crucial.
+- I have been keep going on improving myself step by step to achieve my goals.
+
+
 
 <h3>Contact</h3>
 
