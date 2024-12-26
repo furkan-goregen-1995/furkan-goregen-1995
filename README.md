@@ -26,4 +26,4 @@
 <br>
 ★ Database(SQL, PostgreSQL, Firebase ,MySQL,MongoDB)
 <br>
-★ MVC frameworks(Codeigniter, Wordpress, Blogger etc)
+★ MVC frameworks(Codeigniter, Laravel, Wordpress, Blogger etc)
